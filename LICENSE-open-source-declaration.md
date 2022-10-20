@@ -1,4 +1,4 @@
-# Open Source License Announcement
+# Open-source License Declaration
 
 This skin contains copyrighted software under MIT, OFL and some other Licenses.
 
